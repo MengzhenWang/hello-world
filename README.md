@@ -1,2 +1,2 @@
 # hello-world
-People die if they are killed.
+为人民服务
